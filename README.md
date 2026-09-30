@@ -1,1 +1,1 @@
-This my fist Github repo
+This my first Github repo
